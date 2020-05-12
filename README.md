@@ -1,6 +1,6 @@
 # Prithvi-AI-assignment
 
-The original Data link: [link of dataset](https://prithviai-my.sharepoint.com/personal/aakash_pandey_prithvi_ai/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faakash%5Fpandey%5Fprithvi%5Fai%2FDocuments%2Fraw%2Ezip&parent=%2Fpersonal%2Faakash%5Fpandey%5Fprithvi%5Fai%2FDocuments&originalPath=aHR0cHM6Ly9wcml0aHZpYWktbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvYWFrYXNoX3BhbmRleV9wcml0aHZpX2FpL0VRd01yQW9iUThaRWhuWTlNSUZLZGJRQlhISjZWS3Q0ZmxNUGRwN05vOVQzMEE_cnRpbWU9SDdCaW1jZjIxMGc)
+The original Data link: [Dataset](https://prithviai-my.sharepoint.com/personal/aakash_pandey_prithvi_ai/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faakash%5Fpandey%5Fprithvi%5Fai%2FDocuments%2Fraw%2Ezip&parent=%2Fpersonal%2Faakash%5Fpandey%5Fprithvi%5Fai%2FDocuments&originalPath=aHR0cHM6Ly9wcml0aHZpYWktbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvYWFrYXNoX3BhbmRleV9wcml0aHZpX2FpL0VRd01yQW9iUThaRWhuWTlNSUZLZGJRQlhISjZWS3Q0ZmxNUGRwN05vOVQzMEE_cnRpbWU9SDdCaW1jZjIxMGc)
 
 In Preprocessing of data rather than using multiple values I too mean, variance, max and min of the X,Y and Z co-ordinates 
 
