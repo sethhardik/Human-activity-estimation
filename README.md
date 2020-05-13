@@ -19,3 +19,5 @@ I tried many machine learning models and used only the most Accurate model for t
 clearly deep learning model performed much better compared to deep learning model
 
 The folder named `model and weights for neural network` contains `.h5` file having weights and `.json` file having model in them while using you need both the files.
+
+I have also shared screenshots link on the forms where video link was asked.
