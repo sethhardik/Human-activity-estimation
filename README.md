@@ -10,6 +10,12 @@ I have implemented the problem in three different ways
       2. using only phone data 
       3. using both watch and mobile data
       
-The max accuracy obtained is `66%` and it was achieved using only wacth data for the models 
+The max accuracy using machine learning model  is `66%` and it was achieved using only watch data for the models 
+
+and the max accuracy obtained using deep learing model is `95%` again on watch dataset and for combined accuracy is `92%`
 
 I tried many machine learning models and used only the most Accurate model for the final code file.
+
+clearly deep learning model performed much better compared to deep learning model
+
+The folder named `model and weights for neural network` contains `.h5` file having weights and `.json` file having model in them while using you need both the files.
